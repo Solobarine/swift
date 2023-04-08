@@ -1,5 +1,3 @@
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -22,7 +20,6 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Swift] <a name="about-project"></a>
 
@@ -39,11 +36,11 @@
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - **[Create a User]**
 - **[Add a Comment]**
@@ -51,7 +48,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -80,7 +77,7 @@ To run the project, execute the following command:
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHOR -->
+
 
 ## 👥 Author <a name="authors"></a>
 👤 **Akpuru Solomon
@@ -91,7 +88,6 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -101,27 +97,26 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+
 
 If you like this project...
 Leave a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank everyone
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- LICENSE -->
+
+## Future Features
+<p align="right">This is an ongoing project. More features will be added with time.</p>
+
 
 ## 📝 License <a name="license"></a>
 
