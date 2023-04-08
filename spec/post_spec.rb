@@ -25,4 +25,10 @@ RSpec.describe Post, type: model do
     subject.likes_counter = -1
     expect(subject).to_not_be_valid
   end
+
+  it 'Recent Comments' do
+    Comment.create(post: subject, author: user, text: 'test')
+    comments = subject.recent_comments
+    expect(comments.length).to eq 1
+  end
 end
