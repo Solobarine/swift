@@ -1,6 +1,6 @@
 require_relative 'rails_helper'
 
-RSpec.describe User, type: model do
+RSpec.describe User, type: :model do
   subject { User.new(name: 'Midelaar', photo: 'http:/randomImage.where', bio: 'A humble man who loved his rubies.') }
 
   before { subject.save }

@@ -1,6 +1,6 @@
 require_relative 'rails_helper'
 
-RSpec.describe Comment, type: model do
+RSpec.describe Comment, type: :model do
   subject do
     user = User.new(name: 'Javier', photo: 'https://whereever.com', bio: 'Surfer', posts_counter: 0)
     Post.create(title: 'Good Habits', text: 'This is why habits are necessary.', comments_counter: 4,
