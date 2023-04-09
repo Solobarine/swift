@@ -4,7 +4,7 @@ class Post < ApplicationRecord
   belongs_to :user, class_name: 'User'
 
   validates :title, presence: true
-  validates :title, length: { less_than_or_equal_to: 250 }
+  validates :title, length: { maximum: 250 }
   validates :comments_counter, numericality: true
   validates :likes_counter, numericality: true
 
